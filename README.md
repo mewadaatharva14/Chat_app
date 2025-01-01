@@ -46,11 +46,11 @@
   <li><strong>/server.js</strong>: Main server logic</li>
 </ul>
 
-<h2>Screenshots</h2>
+<!-- <h2>Screenshots</h2>
 <p>Include screenshots of the app here to showcase its UI and features.</p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please fork the repository and submit a pull request.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project is licensed under the MIT License.</p> -->
